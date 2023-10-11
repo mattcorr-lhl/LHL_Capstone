@@ -33,7 +33,7 @@ After my analysis I think it's safe to say that **Lewis Hamilton** is the undisp
 - Risk Aversion - How likely is the driver to get in a collision
 - Podium % - How likely is the driver to end up on the podium (1st, 2nd or 3rd)
 - Win % - How likely is the driver to get first place (# of wins / number of races)
-- Points per Lap - How many points has the driver gotten per number of laps run. This statistic is a good indicator of a drivers performance 
+- Points per Lap - How many points has the driver gotten per number of laps run.
 
 Lewis tops all of the mentioned statistics above as well as many others that I did not cover. However it is worth noting that in Formula 1 the performance of a driver is heavily tied to the performance of their team, much more so than other sports as they not only provide the crew, but the car itself. Even the best driver would not be able to perform with a car that is not able to keep up. To view the relative performance of a team over a given range of years you can utilize the [Formula 1 - Constructor Statistics](https://public.tableau.com/app/profile/matthew.corr6019/viz/Formula1-TeamStatistics/TeamStatistics?) dashboard. It also contains a Gantt chart that allows you to view how long a team has been active for, sorted by most years in the sport.
 
@@ -46,7 +46,7 @@ Some other interesting trends I noticed while looking at the data include (see [
 
   - Your starting position from qualifying heavy impacts where you will finish the race. Which obviously makes sense as the farther back you start, the more cars you will have to jockey with to make your way to the front.
 
-  - On average, the first lap of a Grand Prix is significantly slower than the laps that follow. This can be attributed to the fact 
+  - On average, the first lap of a Grand Prix is significantly slower than the laps that follow. This can be attributed to the fact that drivers are warming up their tires for optimal grip and carefully maneuvering to gain positions.
 
 ## Challenges
 
